@@ -7,7 +7,7 @@ Web Developer & Designer
 Over the past couple of years, I have dedicated myself to learning the ins and outs of coding. Although I have already made significant progress, I am well aware that there is still so much more to learn. Despite the challenges and obstacles I've faced along the way, I am determined to continue pushing myself to improve and refine my coding skills.
 
 *   🌍  I'm based in Indonesia
-*   ✉️  You can contact me at [andreasjeno23@gmail.com]
+*   ✉️  You can contact me at [figojen3@gmail.com]
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Building Website
 *   ⚡  The key is Just Keep Praying### Skills
