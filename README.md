@@ -6,13 +6,6 @@ AI Enthusiast | Website Builder
 
 Over the past couple of years, I have dedicated myself to learning the ins and outs of coding. Although I have already made significant progress, I am well aware that there is still so much more to learn. Despite the challenges and obstacles I've faced along the way, I am determined to continue pushing myself to improve and refine my coding skills.
 
-*   🌍  I'm based in Indonesia
-*   ✉️  You can contact me at [figojen3@gmail.com]
-*   🧠  I'm learning AI
-*   🤝  I'm open to collaborating on Building Website
-*   ⚡  The key is Just Keep Praying### Skills
--------------------------
-
 I've learned and I'm still in the process of learning more
   
 <p align="left">
